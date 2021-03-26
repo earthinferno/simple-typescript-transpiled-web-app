@@ -1,8 +1,9 @@
 {
   "compilerOptions": {
     "target": "es2015",
-    "module": "es2015",
-    "rootDir": "." /*,
-    "lib": ["es6"]*/
+    "rootDir": "src",
+    "module": "system",
+    "lib": ["ES6", "DOM", "ES5"],
+    "outFile": "./build/build.js"
   }
 }

@@ -1,5 +1,10 @@
 # Instructions
 
+run prom this directory unless otherwise stated
+
+## Setup
+npm i
+
 ## Run Typscript Transpiler
 
 From root directory:

@@ -1,6 +1,6 @@
 # Instructions
 
-run prom this directory unless otherwise stated
+Run from this directory unless otherwise stated
 
 ## Setup
 npm i

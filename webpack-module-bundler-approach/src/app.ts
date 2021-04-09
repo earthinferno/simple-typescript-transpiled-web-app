@@ -1,5 +1,5 @@
-import { todoTemplate } from './classes/todo.js';
-import { countdown } from './classes/countdown.js';
+import { todoTemplate } from './classes/todo';
+import { countdown } from './classes/countdown';
 
 const container = document.getElementById('container');
 
